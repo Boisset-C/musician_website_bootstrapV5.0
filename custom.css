@@ -23,3 +23,11 @@
 .bg-custom-black {
     background-color: #000000;
 }
+
+/* Footer Styles */
+
+.custom-list-style {
+    list-style: none;
+    text-decoration: none !important;
+    
+}
