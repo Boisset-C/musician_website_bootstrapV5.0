@@ -1,0 +1,19 @@
+/* Body Styles */
+
+/* Nav Styles */
+.bg-custom-nav {
+    background-color: #c4c4c4;
+}
+
+/* Hero Styles */
+.bg-custom-hero {
+    background-image: url("./assets/hero-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.bg-custom-btn {
+     background-color: #c4c4c4;
+}
