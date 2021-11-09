@@ -2,8 +2,8 @@ A website made for the Author of Geriatric Notes.
 
 DESKTOP VIEW:
 
-![image](assets/desktop.png)
+![image](assets/mobile.png)
 
 MOBILE VIEW:
 
-![image](assets/mobile.png)
+![image](assets/desktop.png)
